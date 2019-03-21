@@ -3,7 +3,7 @@ A basic web-crawler
 
  # Getting Started
  1. git clone
- 2 & 3.(move inside the project folder) npm install
+ 2. & 3.(move inside the project folder) npm install
  4. npm start
  
  At this point of time you will able to vview the output at command prompt only.
